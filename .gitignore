@@ -1,0 +1,21 @@
+# MATLAB temporary files
+*.asv
+*.autosave
+*.mex*
+*.slxc
+
+# MATLAB Simulink cache
+slprj/
+codegen/
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*~
